@@ -1,0 +1,5 @@
+{
+  "name": "PandasFormula Studio",
+  "description": "A professional-grade formula editor and data transformation tool featuring drag-and-drop column selection, multi-source merging, and real-time validation.",
+  "requestFramePermissions": []
+}
